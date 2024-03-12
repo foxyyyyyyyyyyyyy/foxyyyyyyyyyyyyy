@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate developer from Germany</h3>
-<h1 align="center">💫 About Me:</h1>
+<h3>💫 About Me:</h3>
 <br><br>    🔭 I’m currently working at New Creativ<br><br>    🌱 I’m currently learning Node Js, React<br><br>    👯 I’m looking to collaborate with Exmortis eSport<br><br>    👨‍💻 All of my projects are available at https://maierfabian.de<br><br>    📫 How to reach me info@maierfabian.de<br><br>    📄 Know about my experiences https://maierfabian.de/about<br>
 
 
