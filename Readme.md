@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
-<h3 align="center">A passionate developer from Germany</h3>
-<h3>💫 About Me:</h3>
-<br><br>    🔭 I’m currently working at New Creativ<br><br>    🌱 I’m currently learning Node Js, React<br><br>    👯 I’m looking to collaborate with Exmortis eSport<br><br>    👨‍💻 All of my projects are available at https://maierfabian.de<br><br>    📫 How to reach me info@maierfabian.de<br><br>    📄 Know about my experiences https://maierfabian.de/about<br>
 
+<h3>💫 About Me:</h3>
+    👨‍💻 All of my projects are available [here](https://maierfabian.de) (Not jet but i will add them soon hopefully)<br><br>    📫 How to reach me info@maierfabian.de<br><br>    
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabi98_6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fabi98_6) 
