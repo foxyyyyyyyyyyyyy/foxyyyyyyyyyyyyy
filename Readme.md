@@ -2,8 +2,10 @@
 
 <h3>💫 About Me:</h3>
     👨‍💻 All of my projects are available [here](https://maierfabian.de) (Not jet but i will add them soon hopefully)<br><br>    📫 How to reach me info@maierfabian.de<br><br>      
-    ![@foxyyy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=foxyyy)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@foxyyy/30-nites-of-code)  
+  ![@foxyyy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=foxyyy)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabi98_6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fabi98_6) 
