@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=29&pause=1000&color=FF7700&center=true&vCenter=true&random=true&width=700&height=75&lines=Welcome+on+my+Github%F0%9F%91%8B;I'm+Fabian+Student+%26+Webdeveloper;I+would+be+happy+if+you+check+out+my+Portfolio" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=29&pause=1000&color=FF7700&center=true&vCenter=true&random=true&width=700&height=75&lines=Welcome+on+my+Github%F0%9F%91%8B;I'm+Fabian+Student+%26+Webdeveloper;I+would+be+happy+if+you+check+out+my+Portfolio" alt="Typing SVG" /></a>
   
 ---
 </div>
@@ -14,7 +14,7 @@ I'm also currently working on the <a href="https://scrimfinder.de" style="color:
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=foxyyyyyyyyyyyyy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=00000000" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=foxyyyyyyyyyyyyy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=00000000" alt="GitHub Streak" /></a>
 </div>
 <br><br>
 
