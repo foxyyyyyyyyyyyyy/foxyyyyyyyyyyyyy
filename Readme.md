@@ -2,8 +2,6 @@
 
 <h3>💫 About Me:</h3>
     👨‍💻 All of my projects are available [here](https://maierfabian.de) (Not jet but i will add them soon hopefully)<br><br>    📫 How to reach me info@maierfabian.de<br><br>      
-
-## #30NitesOfCode:
    
   ![@foxyyy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=foxyyy)
 
