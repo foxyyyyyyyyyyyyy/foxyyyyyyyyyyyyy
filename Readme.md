@@ -4,7 +4,7 @@
     👨‍💻 All of my projects are available [here](https://maierfabian.de) (Not jet but i will add them soon hopefully)<br><br>    📫 How to reach me info@maierfabian.de<br><br>      
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@foxyyy/30-nites-of-code)  
+   
   ![@foxyyy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=foxyyy)
 
 ## 🌐 Socials:
