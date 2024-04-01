@@ -2,10 +2,10 @@
 ---
 
 <br>
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=29&pause=1000&color=FF7700&center=true&vCenter=true&random=true&width=700&height=75&lines=Welcome+on+my+Gituhb%F0%9F%91%8B;I'm+Fabian+Student+%26+Webdeveloper;I+would+be+happy+if+you+check+out+my+Portfolio)](https://git.io/typing-svg)
 ---
-
+</div>
 <br>
 
 <p align="center">I'm a Student Web Developer from Germany. Most of the Time code with Bootstrap, Angular or Node js.
