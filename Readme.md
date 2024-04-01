@@ -1,8 +1,3 @@
-<style>
-    a {
-        color: #ff770;
-    }
-</style>
 
 ---
 
