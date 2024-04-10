@@ -25,10 +25,7 @@ I'm also currently working on the <a href="https://scrimfinder.de" style="color:
 
 - 💻 I'm currently working on the [Scrimfinder](https://scrimfinder.de) Bot and at [NewCreativ](https://newcreativ.de) as the lead Developer.
 
-<br>
-
 - 🌱 In the moment I'm trying to better understand the functions of React.<br>
-
 
 - 👨‍💻 All of my projects are available [here](https://maierfabian.de) (Not jet but i will add them soon hopefully)
   <br><br> 
