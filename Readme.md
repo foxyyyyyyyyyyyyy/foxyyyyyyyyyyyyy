@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">I'm a Student Web Developer from Germany. Most of the Time code with Bootstrap, Angular or Node js.
-I'm also currently working on the <a href="https://scrimfinder.de" style="color: #ff770;">Scrimfinder</a> Project.</p>
+I'm also currently working on the <a href="https://scrimfinder.gg" style="color: #ff7700;">Scrimfinder</a> Project.</p>
 
 
 <div align="center">
