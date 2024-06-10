@@ -65,6 +65,6 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fabi98_6) 
 
 
-[![Codingpingu](https://maierfabian.de/images/codingpingu.png)](https://maierfabian.de)
+[![Codingpingu](https://maierfabian.de/images/codingpingu.png?with=350px)](https://maierfabian.de)
 </div>
 
