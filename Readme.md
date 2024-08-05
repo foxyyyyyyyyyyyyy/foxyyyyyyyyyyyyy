@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<p align="center">I'm a Student Web Developer from Germany. Most of the Time code with Bootstrap, Angular or Node js.
+<p align="center">I'm a Student Web Developer from Germany. Most of the Time code with TS and Scss in the Frameworks Angular & Express.
 I'm also currently working on the <a href="https://scrimfinder.gg" style="color: #ff7700;">Scrimfinder</a> Project.</p>
 
 
