@@ -32,7 +32,7 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
   
 <br>
 <div align="center">
-<img alt="foxyyyyyyyyyyyyy's most used languages" src="https://github-readme-stats-rho-topaz.vercel.app/api/top-langs?username=foxyyyyyyyyyyyyy&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" /> 
+<img alt="foxyyyyyyyyyyyyy's most used languages" src="https://githubstats.maierfabian.de/api/top-langs?username=foxyyyyyyyyyyyyy&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" /> 
   
   ![@foxyyy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=foxyyy)
 
