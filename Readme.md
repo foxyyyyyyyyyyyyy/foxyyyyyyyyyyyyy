@@ -58,7 +58,7 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
   <img alt="foxyyyyyyyyyyyyy's stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=foxyyyyyyyyyyyyy&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
   
 
-
+<img src="https://raw.githubusercontent.com/foxyyyyyyyyyyyyy/foxyyyyyyyyyyyyy/output/snake.svg" alt="Snake animation" />
 <br>
 
 ## 💰 You can Support me if you want
