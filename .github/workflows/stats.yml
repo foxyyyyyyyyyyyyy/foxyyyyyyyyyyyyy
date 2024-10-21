@@ -59,7 +59,7 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "github-stats"
+        git config --global user.name "foxyyyyyyyyyyyyy"
         git config --global user.email "info@maierfabian.de"
         git add .
         git commit -m 'Update generated files' || true
