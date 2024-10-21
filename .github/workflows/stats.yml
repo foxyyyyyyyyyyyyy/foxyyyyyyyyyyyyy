@@ -60,7 +60,7 @@ jobs:
     - name: Commit to the repo
       run: |
         git config --global user.name "github-stats"
-        git config --global user.email "github-stats[bot]@foxyyyyyyyyyyyyy.github.io"
+        git config --global user.email "info@maierfabian.de"
         git add .
         git commit -m 'Update generated files' || true
         git push
