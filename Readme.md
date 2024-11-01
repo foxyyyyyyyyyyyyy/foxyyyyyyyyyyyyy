@@ -23,7 +23,7 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
 
 <br>
 
-- 💻 I'm currently working on the [Scrimfinder](https://scrimfinder.de) Bot and at [NewCreativ](https://newcreativ.de) as the lead Developer.
+- 💻 I'm currently working on the [Scrimfinder](https://scrimfinder.gg) Bot as part of [eSportsApp](https://esportsapp.gg) as the lead Developer.
 
 - 🌱 In the moment I'm trying to better understand the functions of React.<br>
 
