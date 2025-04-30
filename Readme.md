@@ -10,8 +10,7 @@
 </div>
 <br>
 
-<p align="center">I'm a Student Web Developer from Germany. Most of the Time code with TS and Scss in the Frameworks Angular & Express.
-I'm also currently working on the <a href="https://scrimfinder.gg" style="color: #ff7700;">Scrimfinder</a> Project.</p>
+<p align="center">I'm a Student Web Developer from Germany. Building Stuff like the [eSportsApp](https://esportsapp.gg), my own little API Framework BreezeAPI and more.</p>
 
 
 <div align="center">
@@ -19,18 +18,6 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
 </div>
 <br><br>
 
-<h3>Something About Me!</h3>
-
-<br>
-
-- 💻 I'm currently working on the [Scrimfinder](https://scrimfinder.gg) Bot as part of [eSportsApp](https://esportsapp.gg) as the lead Developer.
-
-- 🌱 In the moment I'm trying to better understand the functions of React.<br>
-
-- 👨‍💻 All of my projects are available [here](https://maierfabian.de) (Not jet but i will add them soon hopefully)
-  <br><br> 
-  
-<br>
 <div align="center">
 <img alt="foxyyyyyyyyyyyyy's most used languages" src="https://githubstats.maierfabian.de/api/top-langs?username=foxyyyyyyyyyyyyy&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" /> 
   
@@ -44,8 +31,8 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
 <br>
 
 <div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,discordjs,docker,figma,git,github,jquery,linux,mysql,mongodb,nextjs,nodejs,npm,prisma,postgres,react,redis,sass,ts,express)](https://maierfabian.de)
+  <h3>My Techstack</h3>
+[![My Techstack](https://skillicons.dev/icons?i=docker,figma,nextjs,prisma,postgres,redis,pnpm)](https://maierfabian.de)
 </div>
  
 <br>
@@ -53,14 +40,11 @@ I'm also currently working on the <a href="https://scrimfinder.gg" style="color:
 ---
 
 <div align="center">
-  <img alt="foxyyyyyyyyyyyyy's stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=foxyyyyyyyyyyyyy&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
   
 
 <img src="https://raw.githubusercontent.com/foxyyyyyyyyyyyyy/foxyyyyyyyyyyyyy/output/snake.svg" alt="Snake animation" />
 <br>
 
-## 💰 You can Support me if you want
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fabi98_6) 
 
 </div>
 
