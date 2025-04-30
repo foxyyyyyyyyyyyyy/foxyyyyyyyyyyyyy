@@ -32,7 +32,7 @@
 
 <div align="center">
   <h3>My Techstack</h3>
-![My Techstack](https://skillicons.dev/icons?i=docker,figma,nextjs,prisma,postgres,redis,pnpm)](https://maierfabian.de)
+[![My Techstack](https://skillicons.dev/icons?i=docker,figma,nextjs,prisma,postgres,redis,pnpm)](https://maierfabian.de)
 </div>
  
 <br>
