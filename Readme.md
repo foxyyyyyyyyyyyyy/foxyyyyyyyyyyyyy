@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://maierfabian.de">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=29&pause=1000&color=FF7700&center=true&vCenter=true&random=true&width=700&height=75&lines=Welcome+on+my+Github%F0%9F%91%8B;I'm+Fabian+Student+%26+Webdeveloper;Check+out+my+Portfolio!" alt="Hi, I'm Fabian - Student & Webdeveloper" />
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&size=29&pause=1000&color=FF7700&center=true&vCenter=true&random=true&width=700&height=75&lines=Welcome+on+my+Github%F0%9F%91%8B;I'm+Fabian+Student+%26+Developer" alt="Hi, I'm Fabian - Student & Webdeveloper" />
   </a>
 </div>
 
